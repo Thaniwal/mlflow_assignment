@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hari/mlflow_assignment/mlruns/764847650084417471/7a0cf58774ea4d098666dde6ed2d348e/artifacts
+end_time: 1728203588281
+entry_point_name: ''
+experiment_id: '764847650084417471'
+lifecycle_stage: active
+run_id: 7a0cf58774ea4d098666dde6ed2d348e
+run_name: Random_Forest
+run_uuid: 7a0cf58774ea4d098666dde6ed2d348e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728203586301
+status: 3
+tags: []
+user_id: hari
